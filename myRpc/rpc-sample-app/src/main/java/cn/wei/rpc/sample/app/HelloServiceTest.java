@@ -21,10 +21,7 @@ public class HelloServiceTest {
 	@Test
 	public void helloTest1() {
 
-//		ClassPathXmlApplicationContext ctx = new ClassPathXmlApplicationContext("spring.xml");
-//		RpcProxy rpcProxy = (RpcProxy) ctx.getBean("rpcProxy");
-//		RpcProxy rpcProxy = new RpcProxy("localhost:8000");
-// 调用代理的create方法，代理HelloService接口
+
 		/**
 		 *Author:wei
 		 *Date:2018/9/30 9:05
